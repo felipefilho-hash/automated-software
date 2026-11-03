@@ -2,3 +2,4 @@ Meu primeiro teste de Git.
 Estou aprendendo Git pelo VS Code.
 Agora estou aprendendo a modificar arquivos com Git.
 Esta alteração foi realizada na branch teste-nova-funcionalidade.
+Estou aprendendo a atualizar meus projetos no GitHub.
