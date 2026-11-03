@@ -1,0 +1,2 @@
+Meu primeiro teste de Git.
+Estou aprendendo Git pelo VS Code.
